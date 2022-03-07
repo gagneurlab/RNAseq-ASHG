@@ -1,4 +1,4 @@
-ASHG 2019 workshop: <br>RNA-seq for Mendelian disease diagnostics
+ASHG workshop: <br>RNA-seq for Mendelian disease diagnostics
 ===
 A hands-on tutorial through bioinformatic tools and workflows
 ---
@@ -33,12 +33,9 @@ To use this tutorial most efficiently, you should follow some rules:
 If you run into any problems, feel free to check out our [FAQ](https://tinyurl.com/RNA-ASHG-FAQ).
 If you are new to programming in R or to notebooks in general have a look into the [getting started guide](https://colab.research.google.com/drive/1KCvunOIUTny_moZppDmcJVkt-Zm0jwf5).
 
-Relevant presentations during ASHG2019
+Relevant presentations during ASHG 2022
 ---
 
 Please post any relevant sessions, presentations, and posters on Slack (channel \#posters-at-ashg) or do a PR.
 
-* [Session E #63: RNAseq to Augment Variant Interpretation and Disease Diagnosis](https://eventpilotadmin.com/web/page.php?page=Session&project=ASHG19&id=163)
-* [Session #112: Exome and RNA-based Sequencing Methods for Variant Interpretation to Improve Clinical Utility](https://eventpilotadmin.com/web/page.php?page=Session&project=ASHG19&id=212)
-* [FraseR: A statistical method to detect aberrant splicing events in RNA-seq data](https://eventpilotadmin.com/web/page.php?page=IntHtml&project=ASHG19&id=1922872)
 
